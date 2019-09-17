@@ -29,29 +29,29 @@
 }
 
 .fa-facebook {
-  background: rgba(231, 64, 46, 0.787);
+  background: #EE4430;
   color: white;
 }
 
 .fa-twitter {
-  background:rgba(231, 64, 46, 0.787);
+  background:#EE4430;
   color: white;
 }
 
 
 .fa-linkedin {
-  background: rgba(231, 64, 46, 0.787);
+  background: #EE4430;
   color: white;
 }
 
 
 .fa-instagram {
-  background:rgba(231, 64, 46, 0.787);
+  background:#EE4430;
   color: white;
 }
 
 .fa-globe {
-  background:rgba(231, 64, 46, 0.787);
+  background:#EE4430;
   color: white;
 }
 
@@ -63,4 +63,13 @@
   margin-top: 15px;
   font-weight: 800;
   font-size: 20px
+}
+
+h5,a{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+a{
+  color: #3A3A3C;
+  text-decoration: underline;
 }
